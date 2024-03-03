@@ -376,7 +376,7 @@ footer {
   border-radius: 10px;
   margin-bottom: 20px;
 }
-.discout-bg {
+.discount-bg {
   background-image: url('../images/Group\ 40.png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -583,33 +583,6 @@ hr {
   .get-lost,
   footer {
     padding: 20px;
-  }
-  .header-nav-title h2 {
-    font-size: 20px;
-  }
-  .header-nav-title img {
-    width: 28px;
-    height: 28px;
-  }
-  .handelbar {
-    display: block;
-  }
-  .header-nav nav {
-    position: absolute;
-    left: -120%;
-    top: 50px;
-    width: 100%;
-    transition: 0.3s;
-    background: rgba(255, 255, 255, 0.8);
-    backdrop-filter: blur(2.5px);
-  }
-
-  .header-nav > nav ul {
-    display: block;
-  }
-  .header-nav > nav ul li {
-    margin-top: 20px;
-    text-align: center;
   }
   .banner-input {
     flex-direction: column;
